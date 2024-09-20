@@ -38,4 +38,3 @@
     - Ensure all components are connected properly.  
     - Observe the output and functionality of your project.  
 
-Feel free to reach out if you have any questions or need further assistance!
